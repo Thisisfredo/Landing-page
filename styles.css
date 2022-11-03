@@ -124,7 +124,7 @@ button{
 .text2{
     font-size: 13px;
     font-weight: lighter;
-    margin-left: 35px;
+    margin-left: 50px;
     color: #1f2937;
 }
 .image-text2{ 
@@ -137,7 +137,7 @@ button{
 .text3{
     font-size: 13px;
     font-weight: lighter;
-    margin-left: 20px;
+    margin-left: 40px;
     color: #1f2937;
 }
 .image-text4{
@@ -147,7 +147,7 @@ button{
 .text4{
     font-size: 13px;
     font-weight: lighter;
-    margin-left: 43px;
+    margin-left: 53px;
     color: #1f2937;
 }
 
@@ -166,7 +166,7 @@ button{
     font-style: italic;
     color: #1f2937;
     text-align: center;
-   font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .quoter{
     margin-top: 20px;
@@ -187,11 +187,39 @@ button{
     margin-left: 220px;
     margin-top: 80px;
     border-radius: 10px;
+    padding: 35px 0;
 }
+
+.land{
+    color: #e5e7eb;
+    margin-left: 100px;
+   font-size: 26px;
+   
+}
+.land2{
+    color: #e5e7eb;
+    margin-left: 100px;
+   font-size: 18px;
+   margin-top: 3px;
+}
+.last-button{
+    background-color: #3882f6;
+    border: white 2px solid;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-left: 750px;
+    display: inline;
+
+    
+}
+
 footer {
     display: flex;
-    justify-content: center;
-   
+    justify-content: center; 
     background-color: #1f2937;
     color: #fff;
     height: 100px;
@@ -200,4 +228,15 @@ footer {
 .footer{
       margin-top: 30px;
      font-size: 20px;
-}
+} 
+
+
+
+
+
+
+
+
+
+
+ 
